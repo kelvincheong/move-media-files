@@ -1,5 +1,8 @@
-## collection of powershell scripts
+# collection of powershell scripts
 random collection
 
-# move-media-files
+## move-media-files
 Project to move media files from a users' home drive (network share) to c:, removing the need for immense backup disks space. Also tries to remove some illegal videos.
+
+## search-markets
+Project to search FB Marketplace, Gumtree and eBay AU
